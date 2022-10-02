@@ -37,7 +37,7 @@
         </div>
 
         <div class="field">
-            <label for="dropdown">What the subject of your message ?</label>
+            <label for="dropdown">Quel est le sujet de votre message ?</label>
             <select name="dropdown" id="dropdown" class="dropmenu" required>
                 <option value="" disabled selected>Select the subject</option>
                 <option value="Deamande d'information">Demande d'informations</option>
@@ -49,7 +49,7 @@
         </div>
 
         <div class="field">
-            <label for="message" class="label-block">Any comments or suggestion ?</label>
+            <label for="message" class="label-block">Ecrivez votre message ici :</label>
             <textarea name="message" id="message" rows="5" placeholder="Enter your comment here..."></textarea>
         </div>
 
