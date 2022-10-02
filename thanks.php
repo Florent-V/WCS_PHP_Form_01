@@ -10,7 +10,7 @@
 <body>
     <header>
         <h1 id="title">Confirmation</h1>
-        <p id="description">Your message has been sent</p>
+        <p id="description">Votre message a bien été envoyé !</p>
     </header>
     <main>
         <h1>Résumé de votre demande :</h1>
